@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons>
+    <person id="1">
+        <name>姚腾辉</name>
+        <age>22</age>
+        <sex>男</sex>
+    </person>
+    <person id="2">
+        <name>刘妍</name>
+        <age>20</age>
+        <sex>女</sex>
+    </person>
+</persons>
